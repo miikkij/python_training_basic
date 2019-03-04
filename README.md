@@ -6,7 +6,7 @@ My stuff what I've done when training python
 Text
 
 ```
-Import io from System
+python import io from bytesio
 ``` 
 
 This is how you output text: `print("hello world")`
