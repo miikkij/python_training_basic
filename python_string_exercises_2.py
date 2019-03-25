@@ -49,3 +49,9 @@ print(temp_str.replace(',', ' ').replace('.', '').capitalize())
 
 temp_str = 'first half second half'
 print(temp_str[:len(temp_str)//2])
+
+start = 1
+end = 2
+print(start, end)
+start, end = end, start
+print(start, end)
